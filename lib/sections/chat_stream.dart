@@ -52,8 +52,6 @@ class _SectionStreamChatState extends State<SectionStreamChat> {
               loading = true;
 
               gemini.streamChat(chats).listen((value) {
-                print("-------------------------------");
-                print(value.output);
                 loading = false;
                 setState(() {
                   if (chats.isNotEmpty &&

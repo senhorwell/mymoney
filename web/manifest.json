@@ -1,6 +1,6 @@
 {
-    "name": "my_money",
-    "short_name": "my_money",
+    "name": "mymoney",
+    "short_name": "mymoney",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

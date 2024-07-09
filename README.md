@@ -1,4 +1,4 @@
-# my_money
+# example
 
 A new Flutter project.
 
